@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dMqGu5BTTVUoSD8E69OUTnQ8yLck8HtA2k3zBeFTyEkYIIO33HeuKchrQPyFHo3I7a0CLNRBDcC6z5tw/iJ/3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eleme\\workspace\\TextBasedAdventure\\backend\\TwoSum\\TwoSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eleme\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

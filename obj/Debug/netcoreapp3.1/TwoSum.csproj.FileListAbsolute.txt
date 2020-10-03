@@ -1,0 +1,13 @@
+C:\Users\eleme\workspace\TextBasedAdventure\backend\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.exe
+C:\Users\eleme\workspace\TextBasedAdventure\backend\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.deps.json
+C:\Users\eleme\workspace\TextBasedAdventure\backend\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.json
+C:\Users\eleme\workspace\TextBasedAdventure\backend\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.dev.json
+C:\Users\eleme\workspace\TextBasedAdventure\backend\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.dll
+C:\Users\eleme\workspace\TextBasedAdventure\backend\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.pdb
+C:\Users\eleme\workspace\TextBasedAdventure\backend\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csprojAssemblyReference.cache
+C:\Users\eleme\workspace\TextBasedAdventure\backend\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfoInputs.cache
+C:\Users\eleme\workspace\TextBasedAdventure\backend\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfo.cs
+C:\Users\eleme\workspace\TextBasedAdventure\backend\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\eleme\workspace\TextBasedAdventure\backend\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.dll
+C:\Users\eleme\workspace\TextBasedAdventure\backend\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.pdb
+C:\Users\eleme\workspace\TextBasedAdventure\backend\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.genruntimeconfig.cache
